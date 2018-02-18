@@ -10,7 +10,7 @@ At the moment the processing happens like a queue, whereby it will work on one f
 * [Install PHP 7 with the inotify extension](https://blog.programster.org/ubuntu-16.04-install-PHP-inotify).
 
 # Steps
-* Clone this repository with `git clone git@github.com:programster/video-converter.git`.
+* Clone this repository with `git clone https://github.com/programster/video-converter.git`.
 * Execute the `main.php` script with `php main.php`;
 * Drop some files into the input-bucket for processing.
 * Wait for the video(s) to process. (It can take quite a while).
